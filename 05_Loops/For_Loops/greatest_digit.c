@@ -1,3 +1,5 @@
+// This program finds greatest digit in the number.
+
 #include <stdio.h>
 int main () {
     int number;

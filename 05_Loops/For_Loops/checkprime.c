@@ -1,3 +1,5 @@
+// This program checks if the number is prime.
+
 #include <stdio.h>
 int main () {
     int factor = 0;

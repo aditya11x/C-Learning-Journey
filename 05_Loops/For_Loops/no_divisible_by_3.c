@@ -1,3 +1,6 @@
+// This program checks if the number is divisible by 3
+
+
 #include <stdio.h>
 int main () {
 int N, a = 1;

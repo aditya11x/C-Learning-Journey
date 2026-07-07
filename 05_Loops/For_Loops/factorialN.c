@@ -1,3 +1,5 @@
+// This program multplies all the number from 1 to N
+
 #include <stdio.h>
 int main () {
     int multiple = 1, N;

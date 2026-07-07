@@ -1,3 +1,5 @@
+// This program check if the number is divisible by 3 and 5 both
+
 #include <stdio.h>
 int main () {
     int N, a = 1;
